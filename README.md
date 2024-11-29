@@ -275,13 +275,7 @@ SISeg
 
 If you find Inf-CLIP useful for your research and applications, please cite using this BibTeX:
 ```bibtex
-@article{damovl2024infcl,
-  title={Breaking the Memory Barrier: Near Infinite Batch Size Scaling for Contrastive Loss},
-  author={Zesen Cheng, Hang Zhang, Kehan Li, Sicong Leng, Zhiqiang Hu, Fei Wu, Deli Zhao, Xin Li, Lidong Bing},
-  journal={arXiv preprint arXiv:2410.17243},
-  year={2024},
-  url={https://arxiv.org/abs/2410.12787}
-}
+
 ```
 
 
