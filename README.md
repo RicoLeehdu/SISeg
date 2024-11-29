@@ -3,14 +3,10 @@
 <p align="center">
     <img src="./imgs/icon.png" width="150" style="margin-bottom: 0.2;"/>
 <p>
-
-
-<h3 align="center"><a href="https://arxiv.org/abs/2410.17243">
-Breaking the Memory Barrier: Near Infinite Batch Size Scaling for Contrastive Loss</a></h3>
+<h3 align="center"><a href="">
+Adaptive Interactive Segmentation for Multimodal
+Medical Imaging via Selection Engine</a></h3>
 <h5 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us. 🙏🙏 </h2>
-
-<h5 align="center">
-[![arXiv](https://img.shields.io/badge/Arxiv-2410.17243-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2410.17243)
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-yellow)  
 
