@@ -273,7 +273,7 @@ SISeg
 
 ## 📑 Citation
 
-If you find Inf-CLIP useful for your research and applications, please cite using this BibTeX:
+If you find SISeg useful for your research and applications, please cite using this BibTeX:
 ```bibtex
 
 ```
