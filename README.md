@@ -7,6 +7,7 @@
 Adaptive Interactive Segmentation for Multimodal
 Medical Imaging via Selection Engine</a></h3>
 <h5 align="center"> If our project helps you, please give us a star ⭐ on GitHub to support us. 🙏🙏 </h2>
+
 ![License](https://img.shields.io/badge/License-Apache%202.0-yellow)  
 
 <div align="center"><img src="./imgs/main.png" width="800" /></div>
@@ -278,7 +279,7 @@ https://arxiv.org/abs/2411.19447
 
 ## 👍 Acknowledgement
 
-The codebase of SISeg is adapted from MedSAM and SAM2. We are also grateful for the following projects our SISeg arose from:
+The codebase of SISeg is adapted from MedSAM and S. We are also grateful for the following projects our SISeg arose from:
 
 - [**MedSAM**](https://github.com/bowang-lab/MedSAM), [**SAM2**](https://github.com/facebookresearch/sam2/tree/main)
 
